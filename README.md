@@ -1,6 +1,7 @@
 # 웹캠 영상 실시간 객체 인식 프로그램
 
 ## 설명
+
 이 프로그램은 PyQt5를 사용하여 웹캠에서 영상을 실시간으로 캡처하고, 신경망 모델을 사용하여 영상에 대한 객체를 인식하는 간단한 응용 프로그램입니다.
 
 ## 사용된 기술
@@ -27,9 +28,13 @@ keras_Model.h5와 labels.txt 파일을 준비합니다.<br>
 프로그램을 종료하려면 'Finish' 버튼을 클릭합니다.<br>
 ****
 
-## 요구 사항
+## 사용한 언어와 환경
 
-Python 3<br>
-PyQt5<br>
-OpenCV<br>
-Keras<br>
+### 언어
+* Python 3<br>
+* PyQt5<br>
+* OpenCV<br>
+* Keras<br>
+
+### 환경
+* vscode
